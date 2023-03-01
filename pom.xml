@@ -158,10 +158,9 @@
 	</build> -->
   
    <properties>
-        <maven.compiler.source>17.0.6</maven.compiler.source>
-        <maven.compiler.target>17.0.6</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
         <!--added java version to resolve invalid target release error in jenkins -->
-       <!-- <java.version>17.0.6</java.version>     -->   
     </properties>
     
     
